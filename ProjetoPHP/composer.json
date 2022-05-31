@@ -1,0 +1,17 @@
+{
+    "name": "aluno/projeto-php",
+    "description": "Aquie temos um projeto usando PHP e MySQL",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Aluno\\ProjetoPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gabriel Souza",
+            "email": "gabriel.ismael@fatec.sp.gov.br"
+        }
+    ],
+    "require": {}
+}
