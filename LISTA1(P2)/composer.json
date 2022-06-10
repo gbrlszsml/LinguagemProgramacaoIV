@@ -1,0 +1,15 @@
+{
+    "name": "gbrlszsml/lista1",
+    "autoload": {
+        "psr-4": {
+            "gbrlszsml\\Lista1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "gbrlszsml",
+            "email": "gabriel.ismael@fatec.sp.gov.br"
+        }
+    ],
+    "require": {}
+}
